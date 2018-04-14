@@ -1,0 +1,44 @@
+{ "height":6,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJx1w8cNg0AAALD7QegdQi\/Zf8Z4ASw5CiHEfkxMzcwtLK2sbWzt7B0cnfw6u7i6uXt4enn7+Avv\/rYgAoY=",
+         "encoding":"base64",
+         "height":6,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":200,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"map.jpg",
+         "imageheight":1200,
+         "imagewidth":1200,
+         "margin":0,
+         "name":"test",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":36,
+         "tileheight":200,
+         "tilewidth":200
+        }],
+ "tilewidth":200,
+ "version":1,
+ "width":6
+}
